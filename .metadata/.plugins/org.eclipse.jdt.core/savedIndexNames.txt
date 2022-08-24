@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/nogyure/Documents/Java/Java Workspace/.metadata/.plugins/org.eclipse.jdt.core
+580067066.index
+544090306.index
