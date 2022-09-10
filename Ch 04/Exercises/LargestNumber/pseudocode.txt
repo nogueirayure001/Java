@@ -1,0 +1,48 @@
+-- first draft --
+
+A program that receives 10 numbers and determines the largest one
+
+-------------------------------------------------------------------------------
+-- second draft --
+
+Initialize variables 
+
+Input and process number 10 times
+
+Show results
+
+-------------------------------------------------------------------------------
+-- thir draft --
+
+Initialize counter to 0
+
+Receive first input number
+Initialize largest to input number
+
+While counter is less than 10
+  Receive input number
+  increment counter by 1
+  if largest is less than number
+    assign number to largest
+
+Print largest number
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

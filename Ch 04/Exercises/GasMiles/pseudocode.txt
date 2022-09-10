@@ -1,0 +1,49 @@
+-- first draft --
+
+A program that receives data related to miles driven and gas consumed on trips, calculates and shows the miles/gallon for each trip and the overall miles/gallon up to that point in the data entry phase
+
+-------------------------------------------------------------------------------
+-- second draft --
+
+Initialize counter variables 
+
+Receive input from user and print results while there's data to be entered
+
+-------------------------------------------------------------------------------
+-- thir draft --
+
+Initialize milesCounter to zero
+Initialize gallonsCounter to zero
+
+Receive miles driven in first trip
+Receive gallons spent in first trip
+
+While values for miles is positive
+  calculate miles per gallon for the trip
+  print miles per gallon for the trip
+  
+  add miles to milesCounter
+  add gallons to gallonsCounter
+  calculate miles per gallon overall
+  print miles per gallon overall
+
+  Receive miles driven in next trip
+  Receive gallons spent in next trip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+-- first draft --
+
+A program that receives salesperson sales and informs their weekly salary
+
+-------------------------------------------------------------------------------
+-- second draft --
+
+Initialize variable weekly_salary to the fixed week salary amount
+
+receive sold items values and calculate total comission
+
+
+-------------------------------------------------------------------------------
+-- thir draft --
+
+Initialize weekly_salary to 200 (fixed week salary amount)
+
+While there is items to be entered
+  receive item value
+  multiply item value for the comission percentage
+  add comission for the item to weekly_salary
+
+Inform salary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

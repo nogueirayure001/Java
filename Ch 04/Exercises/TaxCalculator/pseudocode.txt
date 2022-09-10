@@ -1,0 +1,46 @@
+-- first draft --
+
+A program to calculate taxes owed by three citizens and display the amounts
+
+-------------------------------------------------------------------------------
+-- second draft --
+
+initialize variables
+
+Receive input of citizen earnings
+calculate taxes based on if it is more or less than 30k 
+display results
+repeat for next citizen
+
+-------------------------------------------------------------------------------
+-- thir draft --
+
+initialize counter to 1
+
+while counter is less than or equal to 3
+  receive nth citizen annual earnings
+  if earnings is less than or equal 30k
+    multiply by 15%
+    display tax value
+  if greater than 30k
+    multiply earnings - 30k by 20%
+    sum value to 30k * 15%
+    display tax value
+  add 1 to counter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
